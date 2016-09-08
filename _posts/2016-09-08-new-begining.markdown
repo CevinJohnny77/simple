@@ -1,5 +1,5 @@
 ---
-title: New Start
+title: NewStart
 layout: post
 guid: urn:uuid:7ee46d88-b3ce-4f1f-bde0-2c753c6f926f
 tags:
