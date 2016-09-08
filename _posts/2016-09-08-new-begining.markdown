@@ -12,4 +12,4 @@ tags:
 
 来到的新的公司，开始了新的生活，NewStart 加油！
 
-[image-1]:	/media/files/2016/09/newStart.jpg
+[image-1]:	http://www.cevinjohnny.top/media/files/2016/09/newStart.JPG
